@@ -1,0 +1,25 @@
+C:\Program Files (x86)\Glyph\Games\Archeage\bin32\GameAPI.dll
+C:\Program Files (x86)\Glyph\Games\Archeage\bin32\GameAPI.pdb
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\obj\Release\GameAPI.csprojResolveAssemblyReference.cache
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\obj\Release\GameAPI.csproj.CoreCompileInputs.cache
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\obj\Release\GameAPI.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\obj\Release\GameAPI.pdb
+C:\Program Files (x86)\Glyph\Games\Archeage\bin32\EasyHook32.dll
+C:\Program Files (x86)\Glyph\Games\Archeage\bin32\EasyHook64.dll
+C:\Program Files (x86)\Glyph\Games\Archeage\bin32\EasyLoad32.dll
+C:\Program Files (x86)\Glyph\Games\Archeage\bin32\EasyLoad64.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\EasyHook32.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\EasyHook64.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\EasyLoad32.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\EasyLoad64.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\GameAPI.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\GameAPI.pdb
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\EasyHook.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\Process.NET.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\SharpDX.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\SharpDX.Mathematics.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\Fasm.NET.dll
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\EasyHook.xml
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\SharpDX.pdb
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\SharpDX.Mathematics.pdb
+C:\Users\colton\source\repos\ArcheAccompliceInternal\GameAPI\bin\Output\SharpDX.Mathematics.xml
