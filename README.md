@@ -2,14 +2,14 @@
 This API can be used for bots, mods, automation, and quality of life enhancements. It uses Process.NET to read internal structures and call internal functions. In order for this library to be used, the CLR must also be loaded into Archeage's process.
 
 # Structs Implemented
- SSystemGlobalEnvironment
- IEntity
- IEntityIt
- IEntitySystem
- IGame
- IGameFramework
- Vec3
- Quat
+- SSystemGlobalEnvironment
+- IEntity
+- IEntityIt
+- IEntitySystem
+- IGame
+- IGameFramework
+- Vec3
+- Quat
  
  # Lua
 Archeage uses lua for alot of functionality, and has bindings for a significant amount of C++ functions. Because of this, I created a wrapper around lua's C API functions. There are C# bindings for lua_PCall, lua_LoadBuffer, lua_GetField, and a few other functions.
